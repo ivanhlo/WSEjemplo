@@ -1,0 +1,10 @@
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe.config
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.pdb
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csprojAssemblyReference.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Form1.resources
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.CoreCompileInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.exe
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.pdb
