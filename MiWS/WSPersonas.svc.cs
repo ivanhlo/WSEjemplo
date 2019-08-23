@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
+using Newtonsoft.Json;
 
 namespace MiWS
 {
@@ -14,9 +16,41 @@ namespace MiWS
     {
         public Persona ObtenerPersona(string Identificacion)
         {
+            /*var cadena = "";
+            switch (filtro)
+            {
+                case "character":
+                    cadena = "https://gateway.marvel.com:443/v1/public/characters/" + Identificacion + "?ts=1&apikey=a90d074cc0483b65fe3c15a6c9970912&hash=792414c616577193fbe3817ba81822a8";
+                    break;
+                case "comic":
+                    cadena = "https://gateway.marvel.com:443/v1/public/characters/" + Identificacion + "/comics?ts=1&apikey=a90d074cc0483b65fe3c15a6c9970912&hash=792414c616577193fbe3817ba81822a8";
+                    break;
+                case "creator":
+                    cadena = "https://gateway.marvel.com:443/v1/public/characters/" + Identificacion + "/comics?ts=1&apikey=a90d074cc0483b65fe3c15a6c9970912&hash=792414c616577193fbe3817ba81822a8";
+                    break;
+            }*/
+            string url = "https://gateway.marvel.com:443/v1/public/characters/1009368/comics?ts=1&apikey=a90d074cc0483b65fe3c15a6c9970912&hash=792414c616577193fbe3817ba81822a8";
+            var arrayDatos = new WebClient().DownloadString(url);
+            dynamic json = JsonConvert.DeserializeObject(arrayDatos);
+            string idLista = "";
+            var numElem = 1;
+            foreach (var result in json.data.results)
+            {
+                Console.WriteLine(result.id);
+                if (numElem > 1)
+                {
+                    idLista = idLista + "," + result.id;
+                }
+                else
+                {
+                    idLista = result.id;
+                }
+                numElem++;
+            }
+            // hasta aquí ya tengo la lista de comics filtrada por id de personaje
             if (Identificacion == "0")
             {
-                return new Persona() { Nombre = "Felipe", Edad = 99 };
+                return new Persona() { Nombre = idLista, Edad = 99 };
             }
             else if (Identificacion == "1")
             {
