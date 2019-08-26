@@ -8,3 +8,13 @@ C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COF
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\bin\Newtonsoft.Json.dll
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\bin\Newtonsoft.Json.xml
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\obj\Debug\MiWS.csproj.CopyComplete
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\bin\MiWS.dll.config
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\bin\MiWS.dll
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\bin\MiWS.pdb
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\bin\Newtonsoft.Json.dll
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\bin\Newtonsoft.Json.xml
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\obj\Debug\MiWS.csprojAssemblyReference.cache
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\obj\Debug\MiWS.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\obj\Debug\MiWS.csproj.CopyComplete
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\obj\Debug\MiWS.dll
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\MiWS\obj\Debug\MiWS.pdb

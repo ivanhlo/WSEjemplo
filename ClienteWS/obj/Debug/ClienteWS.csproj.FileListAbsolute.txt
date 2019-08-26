@@ -11,3 +11,16 @@ C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COF
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\Newtonsoft.Json.dll
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.CopyComplete
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\clientews\obj\Debug\ClienteWS.exe
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\clientews\obj\Debug\ClienteWS.pdb
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe.config
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.pdb
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csprojAssemblyReference.cache
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Form1.resources
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.cache
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.CopyComplete
